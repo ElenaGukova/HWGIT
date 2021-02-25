@@ -1,0 +1,16 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Беспроводная сеть:
+
+   Connection-specific DNS Suffix  . : lan
+   Link-local IPv6 Address . . . . . : fe80::c1a9:8019:46db:96c2%7
+   IPv4 Address. . . . . . . . . . . : 192.168.0.208
+   Subnet Mask . . . . . . . . . . . : 255.255.252.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
