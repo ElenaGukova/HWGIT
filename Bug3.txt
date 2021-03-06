@@ -1,0 +1,8 @@
+Sammary:No validation of year input
+Steps to reproduce:
+1.Go to http://tutu-ru.github.io/
+2.In the field "Date of birth" enter the date "12.12.1"
+3.Click the "Calculate" button
+Expectet resalt: 
+The validator fires. A validation message appears 
+Actual resalt: Age is being calculated (I am 19 years old)

@@ -1,7 +1,7 @@
-Sammary:Ошибка подсчета возраста при вводе сегодняшней даты
+п»їSammary:Age calculation error when entering today's date
 Steps to reproduce:
-1.Переходим http://tutu-ru.github.io/
-2.В поле "Дата рождения " вводим дату "06.03.2021"
-3.Нажимаем кнопку "Посчитать"
-Expectet resalt: Подсчет возраста не происходит
-Actual resalt: Происходит подсчет возраста (Мне-19 лет)
+1.Go to http://tutu-ru.github.io/
+2.In the field "Date of birth" enter the date "06.03.2021"
+3.Click the "Calculate" button
+Expectet resalt: Age counting does not occur
+Actual resalt: Age is being calculated (I am 19 years old)
