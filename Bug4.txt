@@ -1,0 +1,7 @@
+Sammary:Age is counted when only "Day" is entered
+Steps to reproduce:
+1.Go to http://tutu-ru.github.io/
+2.In the "Date of birth" field, enter the date "12".
+3. Click the "Calculate" button
+Expectet resalt: Age counting does not occur. A validation message appears.
+Actual resalt: There is an age calculation (I am 19 years old)
